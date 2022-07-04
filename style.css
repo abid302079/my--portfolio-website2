@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;;
+}
+h1{
+    font-size: 50px;
+    color: dimgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.oranged-added{
+    color: orangered;
+}
+p{
+    color: darkslategrey;
+    font-size: 25px;
+}
+.container-add{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+
+
+}
+.half-width img{
+    width: 80%;
+    padding-right: 20%;
+    padding-right: 10%;
+    justify-content: center;
+    border: 35px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
